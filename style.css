@@ -1,0 +1,41 @@
+.hello{
+  width: 100%;
+ text-align:left;
+}
+.hello h3{
+  display:inline;
+  
+}
+.hello button{
+float:right;
+border: 1px solid white;
+
+}
+.hi{
+  width:100%;
+}
+
+#what,#status{
+  font-size: 22px;
+}
+h4{
+  background-color: #fa0e0e;
+  color:white ;
+ 
+  margin:0px;
+}
+.Instruction_image{
+  display: inline-block;
+  width:45%;
+}
+.modal-dialog{
+  width:90%;
+  
+}
+video{
+background :url('game_console.png');
+background-size:cover;
+background-position:center;
+padding:24px;
+
+}
